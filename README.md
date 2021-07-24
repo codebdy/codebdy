@@ -1,4 +1,4 @@
-### 不要生产多余的内容，去浪费大家的时间。
+### 生产优质内容，是在珍惜大家的时间。
 <!--
 **rxdrag/rxdrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
