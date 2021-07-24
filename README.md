@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-信息爆炸的时代，每一句多余的话，都是在浪费他人的时间。
+不要生产多余的内容，去浪费大家的时间。
 <!--
 **rxdrag/rxdrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
